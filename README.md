@@ -49,7 +49,7 @@ Python · Pandas · Seaborn · Scikit-Learn · XGBoost · Pyomo · CBC Solver
 | File | Description |
 |------|--------------|
 | `Intelligent_Freight_Network_Optimization.ipynb` | Full analysis + optimization notebook |
-| `data/northeast_freight_network_raw.csv` | Simulated dataset |
+| `data/northeast_freight_network_raw.csv` | Dataset |
 | `requirements.txt` | Environment dependencies |
 
 ---
